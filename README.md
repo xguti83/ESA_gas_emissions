@@ -1,5 +1,4 @@
 # ESA_gas_emissions
-Raw data from DOAS observations can be found inside the NOVAC folder while data recorded by MultiGAS devices can be found inside the MultiGAS folder.
 
 Description of the column contents in the different excel files of the repository
 
